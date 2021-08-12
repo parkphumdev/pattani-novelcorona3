@@ -1,0 +1,5 @@
+clover.xml
+composer.lock
+/vendor
+!/vendor/codedge/**
+.idea
